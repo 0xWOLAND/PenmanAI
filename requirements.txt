@@ -46,7 +46,7 @@ python-dateutil
 pytz
 PyYAML
 requests
-scikit
+scikit_learn
 scipy
 six
 spacy
